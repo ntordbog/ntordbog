@@ -1,4 +1,4 @@
-Denne side indeholder information om Nytestamentlig græsk-dansk ordbog (2025) af Christian Houth Vrangbæk (PhD i teologi) 
+Denne side indeholder information om _Nytestamentlig græsk-dansk ordbog_ (2025) af Christian Houth Vrangbæk (PhD i teologi) 
 
 <!--
 **ntordbog/ntordbog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
